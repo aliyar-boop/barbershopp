@@ -1,0 +1,1 @@
+import{a as e,r as t}from"./index-DI6HXOTe.js";function n(e){return e.description||``}function r(e){return Number(e.durationMinutes??e.duration??30)}function i(n,r,i=!1){let a=()=>{try{let{services:e}=t();n(e.filter(e=>i||e.active!==!1))}catch(e){r?.(e)}};return a(),e(a)}export{r as n,i as r,n as t};

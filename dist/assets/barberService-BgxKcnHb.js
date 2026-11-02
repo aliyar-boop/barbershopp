@@ -1,0 +1,1 @@
+import{a as e,r as t}from"./index-DI6HXOTe.js";function n(n,r,i=!1){let a=()=>{try{let{barbers:e}=t();n(e.filter(e=>i||e.active!==!1))}catch(e){r?.(e)}};return a(),e(a)}async function r(e){return t().barbers.find(t=>t.accountUid===e)||null}export{n,r as t};

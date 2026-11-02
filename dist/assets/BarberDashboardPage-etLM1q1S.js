@@ -1,0 +1,1 @@
+import e from"./DashboardPage-Bk6s6v1p.js";import{s as t}from"./index-DI6HXOTe.js";var n=t();function r(){return(0,n.jsx)(e,{role:`barber`})}export{r as default};

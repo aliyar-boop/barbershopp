@@ -1,0 +1,1 @@
+import{m as e,s as t}from"./index-DI6HXOTe.js";var n=t();function r({children:t=`Азырынча маалымат жок.`}){return(0,n.jsxs)(`div`,{className:`empty-state`,children:[(0,n.jsx)(e,{size:28}),(0,n.jsx)(`p`,{children:t})]})}export{r as t};
